@@ -1,6 +1,4 @@
-Sure, here's a simplified version of the `README.md` file for your project:
 
-```markdown
 # Inventory and Manufacturing Management System
 
 ## Overview
@@ -51,9 +49,4 @@ A simple inventory and manufacturing unit management system built with Next.js a
 - `public/data.json`: Sample data
 - `styles/`: Tailwind CSS styles
 
-## Contact
 
-For any issues or questions, please contact [lokaesshwar](mailto:lokaesshwar@example.com).
-```
-
-This simplified `README.md` provides the essential information needed to set up and run the project without going into too much detail. Feel free to adjust the contact information or any other details as needed.
